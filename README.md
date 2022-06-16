@@ -9,7 +9,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
     <img src="https://img.shields.io/badge/springBoot-5.x-lightgrey.svg"/>
-    <img src="https://img.shields.io/badge/vue-3.x-blue.svg"/>
+    <img src="https://img.shields.io/badge/html-5.x-blue.svg"/>
     <img src="https://img.shields.io/badge/mysql-5.x-yellow.svg"/>
 </p>
 
